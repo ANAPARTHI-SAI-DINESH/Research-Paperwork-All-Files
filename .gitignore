@@ -1,0 +1,3 @@
+# Analysis code is kept in the separate private repo "Research-Paperwork-Code"
+*.ipynb
+.ipynb_checkpoints/
